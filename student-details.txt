@@ -1,0 +1,16 @@
+Student Information
+|| Nate Ethan G. Lopez
+|| BSCS-IV
+|| CC400/CS10
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+Goals in Learning Application Development
+Apply and be more proficient with the use of Git and GitHub in project development
+Learn the capabilities of the React package. 
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+Additional Information
+Birthdate: March, 24, 2004 
+Male
+Roman Catholic
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
